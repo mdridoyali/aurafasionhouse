@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <rect width="600" height="800" fill="#EAEAE8"/>
+  <path d="M180 205L245 170C272 195 328 195 355 170L420 205L485 285L428 335L390 295V625H210V295L172 335L115 285L180 205Z" fill="#111111"/>
+  <path d="M245 170C272 195 328 195 355 170" stroke="#404040" stroke-width="4"/>
+  <text x="300" y="715" text-anchor="middle" font-family="sans-serif" font-size="16" letter-spacing="5" fill="#525252">220 GSM COMBED COTTON</text>
+</svg>
