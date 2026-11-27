@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <rect width="600" height="800" fill="#EFEFED"/>
+  <path d="M210 175H390L415 620H328L300 345L272 620H185L210 175Z" fill="#78716C"/>
+  <rect x="210" y="175" width="180" height="24" fill="#57534E"/>
+  <text x="300" y="715" text-anchor="middle" font-family="sans-serif" font-size="16" letter-spacing="5" fill="#525252">TAILORED STRETCH CHINO</text>
+</svg>
